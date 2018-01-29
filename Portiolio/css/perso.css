@@ -1,0 +1,32 @@
+	body{
+	background-repeat:no-repeat;
+	background-size:cover;      /* le fond couvre tt l'espace dispo*/
+	overflow-x: hidden;     /*regle soucis endroit blanc a droite*/
+	}
+
+
+h1{
+	position:relative;
+	text-align:center;
+
+	color:#bed0e7;
+}
+
+.pres{
+	top:200px;
+	position:relative;
+background: rgba(0, 0, 0, 0.7	);
+padding:15px;
+border-radius:10px;
+}
+
+.pres p{
+	font-size:20px;
+		color:#d1d3d6;
+			text-align:center;
+
+
+	
+}
+.nav{
+}
